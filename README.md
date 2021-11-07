@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ola! Eu sou o Ismael Muzé 👋
 
-<!--
-**imuze92/imuze92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho com Analise de Dados e Business Inteligence.
+- 🌱 Estudando Data Science.
+- 👯 Estou procurando colaborar em projetos de Inteligencia Artificial/Machine Learning.
+- 📫 How to reach me: ismaelmuze@gmail.com
+- 😄 Alias: lotsalove
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/imuze92">
+    <img height="180cm"/>
+    <img height="180cm"/>
+</div>
